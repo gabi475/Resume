@@ -1,0 +1,140 @@
+{
+    "main": {
+      "name":"Lorem ipsum",
+      "description":"",
+      "image":"portfolio/profilepic.jpg",
+      "bio":"  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam faucibus risus eu nulla porta luctus. Quisque interdum ante ac urna consequat dapibus. Vestibulum vitae diam lorem. Nullam vulputate tortor enim, et varius turpis mollis non. Cras sit amet elit quis tortor suscipit pretium id vitae ex. Sed mollis elementum eros, eu volutpat nulla tempus id. Phasellus non enim cursus, posuere ex eu, interdum urna. Ut hendrerit eleifend ultricies. Vestibulum hendrerit lectus leo, eget porta dui vulputate a.",
+      "contactmessage":"Write your message",
+      "email": "test@test.com",
+      "phone": "+46-888-011-2000",
+      "github":"https://github.com",
+      "project":"https://github.com",
+      "address":{
+        "street":"Lorem ipsum",
+        "city":"Lorem ipsum",
+        "state":"Lorem ipsum",
+        "zip": "1111"
+      },
+      "website": " ",
+      "social":[
+        
+        
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/",
+          "className":"fa fa-linkedin"
+        },
+        
+        {
+          "name":"github",
+          "url":"https://github.com/",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"",
+      "education":[
+        {
+          "school":"Lorem ipsum",
+          "degree":"Lorem ipsum",
+          "graduated":"May 2021",
+          "description":" C# , Database i .Net, HTML & CSS,ASP.NET MVC,JavaScript,ASP.NET Web API,CMS,Umbraco,REACT "
+        },
+        {
+          "school":"Lorem ipsum",
+          "degree":"Lorem ipsum",
+          "graduated":"Juni 2017",
+          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam faucibus risus eu nulla porta luctus. Quisque interdum ante ac urna consequat dapibus. Vestibulum vitae diam lorem. Nullam vulputate tortor enim, et varius turpis mollis non. Cras sit amet elit quis tortor suscipit pretium id vitae ex. Sed mollis elementum eros, eu volutpat nulla tempus id. Phasellus non enim cursus, posuere ex eu, interdum urna. Ut hendrerit eleifend ultricies. Vestibulum hendrerit lectus leo, eget porta dui vulputate a."
+        },
+        {
+          "school":"Lorem ipsum",
+          "degree":"Lorem ipsum dolor",
+          "graduated":"Juni 2017",
+          "description":""
+        }
+      ],
+      "work":[
+        {
+          "company":"Lorem ipsum",
+          "title":"lorem ipsum ",
+          "years":"January 2016 - Present",
+          "description":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam faucibus risus eu nulla porta luctus. Quisque interdum ante ac urna consequat dapibus. Vestibulum vitae diam lorem. Nullam vulputate tortor enim, et varius turpis mollis non. Cras sit amet elit quis tortor suscipit pretium id vitae ex. Sed mollis elementum eros, eu volutpat nulla tempus id. Phasellus non enim cursus, posuere ex eu, interdum urna. Ut hendrerit eleifend ultricies. Vestibulum hendrerit lectus leo, eget porta dui vulputate a."
+        },
+        {
+          "company":"Lorem ipsum",
+          "title":"Lorem ipsum",
+          "years":"September 2007 - Present",
+          "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam faucibus risus eu nulla porta luctus. Quisque interdum ante ac urna consequat dapibus. Vestibulum vitae diam lorem. Nullam vulputate tortor enim, et varius turpis mollis non. Cras sit amet elit quis tortor suscipit pretium id vitae ex. Sed mollis elementum eros, eu volutpat nulla tempus id. Phasellus non enim cursus, posuere ex eu, interdum urna. Ut hendrerit eleifend ultricies. Vestibulum hendrerit lectus leo, eget porta dui vulputate a.  "
+        },
+        {
+          "company":"Lorem ipsum",
+          "title":"Lorem ",
+          "years":"September 2007 - 2013",
+          "description":" "
+        }
+      
+      
+      ],
+      "skills":[
+        {
+          "name":"C#",
+          "level":"80%"
+        },
+        {
+          "name":"ASP NET CORE",
+          "level":"65%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"50%"
+        },
+        {
+          "name":"HTML & CSS",
+          "level":"80%"
+        },
+        {
+          "name":"WEB API",
+          "level":"80%"
+        },
+        {
+          "name":"Umbraco",
+          "level":"50%"
+        },
+        {
+          "name":"JAVASCRIPT",
+          "level":"60%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Lorem ipsum",
+          "category":"Game",
+          "image":"javascript.jpg",
+          "url":" https://github.com"
+          
+        },
+        {
+          "title":"Lorem ipsum",
+          "category":"Api Gateway",
+          "image":"api.jpg",
+          "url":"https://github.com/"
+        },
+        {
+          "title":"Lorem ipsum",
+          "category":"React",
+          "image":"react.jpg",
+          "url":"https://github.com/"
+        },
+        {
+          "title":"Lorem ipsum",
+          "category":"Umbraco",
+          "image":"umbraco.jpg",
+          "url":"https://github.com/"
+        }
+       
+      ]
+    }
+  }
